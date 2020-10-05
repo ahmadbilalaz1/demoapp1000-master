@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            This is a a Primary Application applicationdfsdfsdf
+            This is a a Primary Application application. And published from GitHub :)
         </div>
     </form>
 </body>
